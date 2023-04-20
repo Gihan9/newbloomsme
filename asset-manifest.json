@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/newbloomsme/static/css/main.92ba1d0f.css",
-    "main.js": "/newbloomsme/static/js/main.e03321da.js",
-    "service-worker.js": "/newbloomsme/service-worker.js",
-    "index.html": "/newbloomsme/index.html",
-    "main.92ba1d0f.css.map": "/newbloomsme/static/css/main.92ba1d0f.css.map",
-    "main.e03321da.js.map": "/newbloomsme/static/js/main.e03321da.js.map"
+    "main.css": "/static/css/main.92ba1d0f.css",
+    "main.js": "/static/js/main.1487ea7b.js",
+    "service-worker.js": "/service-worker.js",
+    "index.html": "/index.html",
+    "main.92ba1d0f.css.map": "/static/css/main.92ba1d0f.css.map",
+    "main.1487ea7b.js.map": "/static/js/main.1487ea7b.js.map"
   },
   "entrypoints": [
     "static/css/main.92ba1d0f.css",
-    "static/js/main.e03321da.js"
+    "static/js/main.1487ea7b.js"
   ]
 }
